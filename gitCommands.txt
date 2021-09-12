@@ -1,2 +1,8 @@
 // starting the git 
 cmd : git init
+// creating a new branch and pointer moves to that branch
+cmd: git checkout -b <branch_name>
+// checking present branch where my pointer lies
+cmd: git branch
+// switch to another branch
+cmd: git checkout <branch_name>
