@@ -1,0 +1,2 @@
+// starting the git 
+cmd : git init
